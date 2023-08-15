@@ -28,13 +28,6 @@
     "text": "Publications\nCheck my Google scholar page for my most update to date publications."
   },
   {
-    "objectID": "index.html#r-software-packages",
-    "href": "index.html#r-software-packages",
-    "title": "Brendan Galdo",
-    "section": "R Software Packages",
-    "text": "R Software Packages\nDEBBI- Differential Evolution-based Bayesian Inference\ngraDiEnt- Stochastic Quasi-Gradient Differential Evolution"
-  },
-  {
     "objectID": "index.html#highlighted-skills",
     "href": "index.html#highlighted-skills",
     "title": "Brendan Galdo",
@@ -47,6 +40,13 @@
     "title": "Brendan Galdo",
     "section": "Niche Skills",
     "text": "Niche Skills\nR Shiny Application Development\nR package Development\nHierarchical Bayesian Modeling\nLikelihood-free Inference\nGenerative Modelling\nDerivative-free Optimization Algorithms\nModels of Human Learning"
+  },
+  {
+    "objectID": "index.html#r-software-packages",
+    "href": "index.html#r-software-packages",
+    "title": "Brendan Galdo",
+    "section": "R Software Packages",
+    "text": "R Software Packages\nDEBBI- Differential Evolution-based Bayesian Inference\ngraDiEnt- Stochastic Quasi-Gradient Differential Evolution"
   },
   {
     "objectID": "about.html",
