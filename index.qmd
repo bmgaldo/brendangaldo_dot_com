@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/brendan-matthew-g-9108b375/
 ---
 
-Hi I'm Brendan. I'm a data scientist currently working in healthcare and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and starcraft II.
+Hi I'm Brendan. I'm a data scientist currently working in healthcare and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and Starcraft II.
 
 ## Experience
 
@@ -45,7 +45,7 @@ Machine Learning
 
 Predictive Modeling
 
-Programming in R / Python / C
+Programming in R / Python / C / SQL
 
 Experimental Design Optimization
 
@@ -53,15 +53,15 @@ Causal Inference
 
 A/B Testing
 
-Forecasting / Time series
+Forecasting / Time Series
 
 Imputation and Missing Data
 
 ## Niche Skills
 
-R Shiny Application Development
+Shiny Application Development
 
-R package Development
+R Package Development
 
 Hierarchical Bayesian Modeling
 
