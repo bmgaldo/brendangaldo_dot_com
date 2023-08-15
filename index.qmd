@@ -1,0 +1,80 @@
+---
+title: "Brendan Galdo"
+about:
+  template: jolla
+  image: images/profile.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/thegreatgaldini
+    - icon: github
+      text: Github
+      href: https://github.com/bmgaldo
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/brendan-matthew-g-9108b375/
+---
+
+Hi I'm Brendan. I'm a data scientist currently working in healthcare and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and starcraft II.
+
+## Experience
+
+Nationwide Children's Hospital \| Data Scientist II \| July 2022 - present
+
+Nationwide Insurance \| Data Scientist \| May 2020 - December 2021
+
+Model-based Cognitive Neuroscience Lab @ OSU \| Graduate Researcher \| Aug 2018 - December 2021
+
+## Education
+
+Master of Applied Statistics \| Ohio State University
+
+MA in Psychology \| Ohio State University
+
+B.S. in Neuroscience \| Ohio State University
+
+## Publications
+
+Check my [Google scholar page](https://scholar.google.com/citations?user=-JLmY3sAAAAJ&hl=en&oi=ao) for my most update to date publications.
+
+## Highlighted Skills
+
+Bayesian Statistics
+
+Machine Learning
+
+Predictive Modeling
+
+Programming in R / Python / C
+
+Experimental Design Optimization
+
+Causal Inference
+
+A/B Testing
+
+Forecasting / Time series
+
+Imputation and Missing Data
+
+## Niche Skills
+
+R Shiny Application Development
+
+R package Development
+
+Hierarchical Bayesian Modeling
+
+Likelihood-free Inference
+
+Generative Modelling
+
+Derivative-free Optimization Algorithms
+
+Models of Human Learning
+
+## R Software Packages
+
+[**DEBBI**](https://cran.r-project.org/web/packages/DEBBI/index.html)- Differential Evolution-based Bayesian Inference
+
+[**graDiEnt**](https://cran.r-project.org/web/packages/graDiEnt/index.html)- Stochastic Quasi-Gradient Differential Evolution
