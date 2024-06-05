@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Brendan Galdo",
+    "section": "",
+    "text": "Hi I’m Brendan Galdo. I’m a data scientist currently working in the healthcare industry and an electronic musician. Big fan of Bayesian inference and psychology."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Brendan Galdo",
+    "section": "Experience",
+    "text": "Experience\nNationwide Children’s Hospital | Data Scientist II | July 2022 - present\nNationwide Insurance | Data Scientist | May 2020 - December 2021"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Brendan Galdo",
+    "section": "Education",
+    "text": "Education\nMaster of Applied Statistics | Ohio State University\nMA in Psychology | Ohio State University\nB.S. in Neuroscience | Ohio State University"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Brendan Galdo",
+    "section": "Publications",
+    "text": "Publications\nCheck my Google scholar page for my most update to date publications."
+  },
+  {
+    "objectID": "about.html#r-software-packages",
+    "href": "about.html#r-software-packages",
+    "title": "Brendan Galdo",
+    "section": "R Software Packages",
+    "text": "R Software Packages\nDEBBI- Differential Evolution-based Bayesian Inference\ngraDiEnt- Stochastic Quasi-Gradient Differential Evolution"
+  },
+  {
+    "objectID": "about.html#highlighted-skills",
+    "href": "about.html#highlighted-skills",
+    "title": "Brendan Galdo",
+    "section": "Highlighted Skills",
+    "text": "Highlighted Skills\nBayesian Statistics\nMachine Learning\nPredictive Modeling\nProgramming in R / Python / C\nForecasting / Time series\nExperimental Design Optimization"
+  },
+  {
+    "objectID": "about.html#niche-skills",
+    "href": "about.html#niche-skills",
+    "title": "Brendan Galdo",
+    "section": "Niche Skills",
+    "text": "Niche Skills\nR Shiny Application Development\nR package Development\nLikelihood-free Inference\nGenerative Modelling\nDerivative-free Optimization Algorithms\nModels of Human Learning"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brendan Galdo",
