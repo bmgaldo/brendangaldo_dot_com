@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: https://thegreatgaldini.substack.com/
+        text: Blog
 
 format:
   html:
