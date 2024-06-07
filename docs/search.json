@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Brendan Galdo",
     "section": "",
-    "text": "Hi I’m Brendan. I’m a data scientist currently working in healthcare and an electronic musician. Big fan of Bayesian inference, psychology, coffee, and Starcraft II. TESTING"
+    "text": "Hi I’m Brendan. I’m a data scientist currently working in healthcare and an electronic musician. Big fan of Bayesian inference, psychology, coffee, and Starcraft II."
   },
   {
     "objectID": "index.html#experience",
@@ -81,14 +81,14 @@
     "href": "index.html#highlighted-skills",
     "title": "Brendan Galdo",
     "section": "Highlighted Skills",
-    "text": "Highlighted Skills\nBayesian Statistics\nMachine Learning\nPredictive Modeling\nProgramming in R / Python / C / SQL\nExperimental Design Optimization\nCausal Inference\nForecasting / Time Series\nImputation and Missing Data"
+    "text": "Highlighted Skills\nBayesian Modeling\nMachine Learning / Predictive Modeling\nProgramming in R / Python / C / SQL\nForecasting / Time Series\nShiny Application Development\nR Package Development"
   },
   {
     "objectID": "index.html#niche-skills",
     "href": "index.html#niche-skills",
     "title": "Brendan Galdo",
     "section": "Niche Skills",
-    "text": "Niche Skills\nShiny Application Development\nR Package Development\nHierarchical Bayesian Modeling\nLikelihood-free Inference\nDerivative-free Optimization Algorithms\nModels of Human Learning"
+    "text": "Niche Skills\nLikelihood-free Inference / Approximate Bayesian Computation\nDerivative-free Optimization and MCMC Algorithms"
   },
   {
     "objectID": "index.html#r-software-packages",
