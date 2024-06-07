@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
   
 website:
   site-url: https://www.example.com
@@ -18,5 +20,3 @@ format:
 
 editor: visual
 
-resources:
-  - CNAME
