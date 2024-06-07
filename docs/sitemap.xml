@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.brendangaldo.com/about.html</loc>
-    <lastmod>2024-06-07T02:24:08.474Z</lastmod>
+    <loc>https://www.example.com/about.html</loc>
+    <lastmod>2024-06-07T02:30:49.895Z</lastmod>
   </url>
   <url>
-    <loc>https://www.brendangaldo.com/index.html</loc>
-    <lastmod>2024-06-07T02:24:08.197Z</lastmod>
+    <loc>https://www.example.com/index.html</loc>
+    <lastmod>2024-06-07T02:30:49.654Z</lastmod>
   </url>
 </urlset>
