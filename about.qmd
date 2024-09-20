@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/brendan-matthew-g-9108b375/
 ---
 
-Hi I'm Brendan. I'm a data scientist currently working in healthcare and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and Starcraft II. 
+Hi I'm Brendan. I'm a data scientist and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and Starcraft II. 
 
 ## Publications
 
