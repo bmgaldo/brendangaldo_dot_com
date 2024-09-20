@@ -15,47 +15,11 @@ about:
       href: https://www.linkedin.com/in/brendan-matthew-g-9108b375/
 ---
 
-Hi I'm Brendan. I'm a data scientist currently working in healthcare and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and Starcraft II. 
-
-## Experience
-
-Nationwide Children's Hospital \| Data Scientist II \| July 2022 - present
-
-Nationwide Insurance \| Data Scientist \| May 2020 - December 2021
-
-Model-based Cognitive Neuroscience Lab @ OSU \| Graduate Researcher \| Aug 2018 - December 2021
-
-## Education
-
-Master of Applied Statistics \| Ohio State University
-
-MA in Psychology \| Ohio State University
-
-B.S. in Neuroscience \| Ohio State University
+Hi I'm Brendan. I'm a data scientist and an [electronic musician](https://mrfijiwiji.com). Big fan of Bayesian inference, psychology, coffee, and Starcraft II. 
 
 ## Publications
 
 Check my [Google scholar page](https://scholar.google.com/citations?user=-JLmY3sAAAAJ&hl=en&oi=ao) for my most update to date publications.
-
-## Highlighted Skills
-
-Bayesian Modeling
-
-Machine Learning / Predictive Modeling
-
-Programming in R / Python / C / SQL
-
-Forecasting / Time Series 
-
-Shiny Application Development
-
-R Package Development
-
-## Niche Skills
-
-Likelihood-free Inference / Approximate Bayesian Computation 
-
-Derivative-free Optimization and MCMC Algorithms
 
 ## R Software Packages
 
